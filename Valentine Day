@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title> Happy Valentines Day! </title>
+<meta charset="utf-8">
+
+
+<style>
+body{background-color:red}
+
+</style>
+<script>
+/*alert("I Love You!");*/
+
+
+</script>
+<img usemap="#up" src="ballonhouse.jpg" alt="house from UP">
+
+<map name="up">
+<area shape="poly" alt="Go to Picnic" title="Ballon House" href="https://lovelyindeed.com/diy-picnic-basket/" coords="123,52,109,74,126,82,138,71">
+<area shape="poly" alt="Go to ILY" title="Ballon House" href=" https://www.babbel.com/en/magazine/how-to-say-i-love-you-in-10-languages" coords="224,222,243,224,240,246,222,250,213,242">
+
+
+
+
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+</html>
